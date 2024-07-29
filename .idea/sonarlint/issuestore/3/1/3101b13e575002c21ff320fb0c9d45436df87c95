@@ -1,0 +1,15 @@
+
+
+java:S1488^"_Immediately return this expression instead of assigning it to the temporary variable "labTest".(•…üÉıÿÿÿÿ8ã­­åô1
+€
+java:S1488u"cImmediately return this expression instead of assigning it to the temporary variable "questionDto".(ğÏˆ8ä­­åô1
+ˆ
+java:S1488°"kImmediately return this expression instead of assigning it to the temporary variable "labTestQuestionData".(Ğ¯±Y8ä­­åô1
+_
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8ü­­åô1
+_
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ8ü­­åô1
+Y	java:S125¯"<This block of commented-out lines of code should be removed.(Ì…8‰®­åô1
+Y	java:S125±"<This block of commented-out lines of code should be removed.(÷‚´Ü8‰®­åô1
+Y	java:S125ä"<This block of commented-out lines of code should be removed.(¾µ–µ8ş¬ë²ö1
+M	java:S106ı"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8®­åô1

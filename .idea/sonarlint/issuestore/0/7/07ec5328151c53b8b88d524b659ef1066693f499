@@ -1,0 +1,37 @@
+
+j
+java:S1192‘"LDefine a constant instead of duplicating this literal "labTestName" 5 times.(ì¼ØŸ8ê¾Ø¶õ1
+q
+java:S1192D"ODefine a constant instead of duplicating this literal "successMessage" 8 times.(şñáşûÿÿÿÿ8ë¾Ø¶õ1
+o
+java:S1192="RDefine a constant instead of duplicating this literal "pages/badRequest" 17 times.(š­ìğ8ë¾Ø¶õ1
+†
+java:S1192I"iDefine a constant instead of duplicating this literal "redirect:/admin/viewLabTestQuestions?id=" 4 times.(Õ¦¾Í8ë¾Ø¶õ1
+m
+java:S1192€"JDefine a constant instead of duplicating this literal "labTestId" 5 times.(ı½Æ”şÿÿÿÿ8ë¾Ø¶õ1
+j
+java:S1192F"MDefine a constant instead of duplicating this literal "errorMessage" 9 times.(°¦ª•8ë¾Ø¶õ1
+k
+java:S1192;"IDefine a constant instead of duplicating this literal "Referer" 17 times.(Å¯ßïüÿÿÿÿ8ë¾Ø¶õ1
+f
+java:S2259«"HA "NullPointerException" could be thrown; "labTestDto" is nullable here.( –¨á8¬¿Ø¶õ1
+_
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8­¿Ø¶õ1
+_
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8®¿Ø¶õ1
+_
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8®¿Ø¶õ1
+_
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8®¿Ø¶õ1
+W
+java:S1854l":Remove this useless assignment to local variable "status".(Û¾Ë8¸¿Ø¶õ1
+H
+java:S1481l"+Remove this unused "status" local variable.(Û¾Ë8¹¿Ø¶õ1
+H	java:S106è"+Replace this use of System.out by a logger.(§ÿª8Ë¿Ø¶õ1
+H	java:S106«"+Replace this use of System.out by a logger.( –¨á8í ù¶õ1
+c
+java:S2147ò"ECombine this catch with the one at line 368, which has the same body.(”ı¾8Ó¿Ø¶õ1
+k
+java:S1128	"IRemove this unused import 'lab.service.questionBank.QuestionBankService'.(´©Ğİüÿÿÿÿ8Õ¿Ø¶õ1
+k
+java:S1128"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ8Õ¿Ø¶õ1

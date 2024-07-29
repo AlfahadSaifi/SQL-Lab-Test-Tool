@@ -1,0 +1,27 @@
+
+g
+java:S11926"QDefine a constant instead of duplicating this literal "pages/badRequest" 3 times.(š­ìğ
+c
+java:S11924"HDefine a constant instead of duplicating this literal "Referer" 3 times.(Å¯ßïüÿÿÿÿ
+_
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8è»Ûåó1
+_
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8è»Ûåó1
+_
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8è»Ûåó1
+_
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8è»Ûåó1
+_
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ8è»Ûåó1
+Y
+java:S1155S">Use isEmpty() to check whether the collection is empty or not.(Ö€™§úÿÿÿÿ
+P
+java:S1128":Remove this unused import 'lab.entity.lab.QuestionStatus'.(í¿
+U
+java:S1128	":Remove this unused import 'lab.payload.report.TestDetail'.(“ïûüÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

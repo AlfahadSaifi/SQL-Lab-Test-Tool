@@ -1,0 +1,34 @@
+
+J
+java:S3740?"/Provide the parametrized type for this generic.(û§™×şÿÿÿÿ
+J
+java:S3740E"/Provide the parametrized type for this generic.(õ‘¡Êıÿÿÿÿ
+J
+java:S3740E"/Provide the parametrized type for this generic.(õ‘¡Êıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ªÆ
+k
+java:S2095Œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©àåúÿÿÿÿ
+k
+java:S2095‹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øªŠ”üÿÿÿÿ
+_
+java:S2095‰"HUse try-with-resources or close this "Connection" in a "finally" clause.(‘ğ¤Î
+k
+java:S2095·"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ãÊ†®ÿÿÿÿÿ
+f
+java:S2095º"PUse try-with-resources or close this "OracleCachedRowSet" in a "finally" clause.(ùâl
+k
+java:S2095µ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÜÀ­ıÿÿÿÿ
+_
+java:S2095®"HUse try-with-resources or close this "Connection" in a "finally" clause.(‘ğ¤Î
+l
+java:S2095"PUse try-with-resources or close this "OracleCachedRowSet" in a "finally" clause.(¬ÉÆĞûÿÿÿÿ
+f
+java:S2095Š"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–Ã¦â
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+G
+java:S3599#",Use another way to initialize this instance.(îØÓñøÿÿÿÿ
+t
+java:S1171#"YMove the contents of this initializer to a standard constructor or to field initializers.(îØÓñøÿÿÿÿ
+P
+java:S2864Ô"4Iterate over the "entrySet" instead of the "keySet".(Ù§†şÿÿÿÿ

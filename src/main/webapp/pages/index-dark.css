@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+li,
+a {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+/* HEADER/NAVBAR */
+
+header {
+    width: 100%;
+    position: fixed;
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c5d5c5;
+
+}
+
+.navleftfunc {
+    list-style: none;
+}
+
+.navleftfunc li {
+    display: inline-flex;
+    padding: 0px 5px;
+}
+
+.navleftfunc li a {
+    font-size: 18px;
+    transition: all 0.2s ease 0s;
+}
+
+.navleftfunc li a:hover {
+    background: #fff;
+    color: black;
+}
+
+.headerfunc {
+    list-style: none;
+}
+
+.headerfunc li {
+    display: inline-flex;
+    padding: 0px 5px;
+}
+
+.headerfunc li img {
+    height: 25px;
+    padding: 1px;
+    border: 1px solid #454545;
+    background: white;
+    transition: all 0.2s ease 0s;
+}
+
+.headerfunc li img:hover {
+    background-color: #fff;
+
+}
+
+.headerfunc li a {
+    cursor: pointer;
+    transition: all 0.2s ease 0s;
+}
+
+.headerfunc li a:hover {
+    background-color: #fff;
+}
+
+/* Container */
+
+.container {
+    /* margin-top: ; */
+    position: relative;
+    width: 100%;
+}
+
+.leftsidebar {
+    margin-top: 55px;
+    position: fixed;
+    width: 18%;
+    height: 100%;
+    background: #f0f0f0;
+}
+
+.leftsidebar h1 {
+    padding: 5px;
+    font-size: 22px;
+    height: 40px;
+    color: #fff;
+    background: #1f1f1f;
+}
+
+.leftsidebar ul {
+    position: absolute;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin-top: 45px;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.leftsidebar ul li {
+    position: relative;
+    width: 100%;
+    padding: 1%;
+    list-style: none;
+    transition: all .1s ease 0s;
+}
+
+/* .leftsidebar ul li:hover{
+    color: #24252A;
+    background: white;
+} */
+
+.leftsidebar ul li a {
+    font-size: 18px;
+    color: black;
+}
+
+.leftsidebar ul li a:hover {
+    color: #fff;
+    background: black;
+}
+
+.compiler {
+    margin-top: 55px;
+    position: fixed;
+    width: 60%;
+    height: 100%;
+    margin-left: 18.1%;
+}
+
+.editor {
+    position: fixed;
+    width: 60%;
+    height: 50%;
+    background: #f0f0f0;
+}
+
+.qd{
+    font-size: 17px;
+    color: white;
+}
+
+form {
+    height: 100%;
+}
+
+label {
+    color: #fff;
+    font-size: 18px;
+}
+
+textarea {
+    width: 100%;
+    height: 95%;
+    background: #1f1f1f;
+    color: #fff;
+    padding: 10px 20px;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+}
+
+.btn {
+    float: right;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    height: 37px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 1px;
+    margin: 1px;
+    background: #1f1f1f;
+    color: #fff;
+    transition: all .1s ease 0s;
+}
+
+.btn:hover{
+    background: rgb(62, 240, 62);
+    color: black;
+}
+
+.console {
+    position: fixed;
+    margin-top: 25.5%;
+    width: 60%;
+    height: 50%;
+    background: #f0f0f0;
+}
+
+iframe {
+    width: 100%;
+    height: 95%;
+    background: #1f1f1f;
+    border: 0;
+    outline: 0;
+}
+
+.rightsidebar{
+    margin-top: 55px;
+    margin-left: 78.2%;
+    position: fixed;
+    width: 22%;
+    height: 92%;
+    background: #f0f0f0;
+}
+
+.rightsidebar{
+    overflow: scroll;
+}

@@ -1,0 +1,15 @@
+
+J
+java:S37407"/Provide the parametrized type for this generic.(¬œ‘âşÿÿÿÿ
+J
+java:S3740Z"/Provide the parametrized type for this generic.(¬œ‘âşÿÿÿÿ
+x
+java:S1488k"bImmediately return this expression instead of assigning it to the temporary variable "resultList".(ªÔËé
+x
+java:S1488x"bImmediately return this expression instead of assigning it to the temporary variable "resultList".(¼ÖŸî
+
+java:S4144!"dUpdate this method so that its implementation is not identical to "getTraineeByUserName" on line 21.(«ıåâøÿÿÿÿ
+b
+java:S1854"?Remove this useless assignment to local variable "rowsUpdated".(ãª§Öÿÿÿÿÿ8çÖ×ÊÖ1
+S
+java:S1481"0Remove this unused "rowsUpdated" local variable.(ãª§Öÿÿÿÿÿ8 ë×ÊÖ1

@@ -1,0 +1,13 @@
+
+c	java:S1071"BConstructor has 11 parameters, which is greater than 7 authorized.(€Õé¥ıÿÿÿÿ8³éİ§Ü1
+W	java:S125"<This block of commented-out lines of code should be removed.(œÚ$8¹ƒí²ö1
+S
+java:S1128"=Remove this unused import 'lab.dto.evaluation.LabReportsDto'.(òºù
+S
+java:S1128"=Remove this unused import 'lab.entity.questionBank.Question'.(´÷ã¡
+P
+java:S1128":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê
+M
+java:S1128"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü

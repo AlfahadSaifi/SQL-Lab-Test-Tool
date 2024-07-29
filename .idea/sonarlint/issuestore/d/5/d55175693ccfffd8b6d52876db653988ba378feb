@@ -1,0 +1,53 @@
+
+g
+java:S1192E"QDefine a constant instead of duplicating this literal "pages/badRequest" 9 times.(š­ìğ
+^
+java:S1192I"HDefine a constant instead of duplicating this literal "trainee" 3 times.(‡ê¡å
+^
+java:S1192K"HDefine a constant instead of duplicating this literal "batchId" 6 times.(Ì«•ÿ
+|
+java:S1192†"`Define a constant instead of duplicating this literal "redirect:/admin/viewTrainee?id=" 6 times.(ğÿ«ûÿÿÿÿ
+d
+java:S1192ø"MDefine a constant instead of duplicating this literal "errorMessage" 8 times.(¨‰À”
+c
+java:S1192C"HDefine a constant instead of duplicating this literal "Referer" 9 times.(Å¯ßïüÿÿÿÿ
+g
+java:S1192ó"KDefine a constant instead of duplicating this literal "employeeId" 3 times.(Éò¯‰şÿÿÿÿ
+x
+java:S1192Ÿ"\Define a constant instead of duplicating this literal "Trainee added successfully." 3 times.(˜Õ¨ úÿÿÿÿ
+f
+java:S1192…"ODefine a constant instead of duplicating this literal "successMessage" 5 times.(Ñ¯ª
+e
+java:S1192ò"NDefine a constant instead of duplicating this literal "traineeDetail" 3 times.(ÃùóÏ
+j
+java:S2259Ì"LA "NullPointerException" could be thrown; "labtestReports" is nullable here.(È¤§ü8ÕßêáØ1
+_
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8´èÖåó1
+_
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄŞ8´èÖåó1
+_
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ8´èÖåó1
+_
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ8´èÖåó1
+_
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄŞ8´èÖåó1
+_
+java:S68139"BRemove this field injection and use constructor injection instead.(êæÄŞ8´èÖåó1
+]	java:S125J"<This block of commented-out lines of code should be removed.(·ùşëşÿÿÿÿ8ÈèÖåó1
+h	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÈåÔùÿÿÿÿ
+m
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(ûÈåÔùÿÿÿÿ
+H
+java:S1481Ë"2Remove this unused "obtainedScore" local variable.( ¨ûE
+W
+java:S1117";Rename "batchId" which hides the field declared at line 59.(¶ÙÄ¦ùÿÿÿÿ
+‰
+java:S1130›"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Şò‰T8œàêáØ1
+R
+java:S1854µ";Remove this useless assignment to local variable "trainee".(ô÷ÀÎ
+C
+java:S1481µ",Remove this unused "trainee" local variable.(ô÷ÀÎ
+A
+java:S1068;"+Remove this unused "batchId" private field.(¶İê
+â
+java:S6541c"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 120 to 64, Complexity from 20 to 14, Nesting Level from 6 to 2, Number of Variables from 42 to 6.(ûÈåÔùÿÿÿÿ

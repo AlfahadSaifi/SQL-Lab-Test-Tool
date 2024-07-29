@@ -1,0 +1,9 @@
+
+„
+java:S1488<"bImmediately return this expression instead of assigning it to the temporary variable "traineeDto".(ÍØ‚üÿÿÿÿ8Ìš¡Ï1
+
+java:S1488A"bImmediately return this expression instead of assigning it to the temporary variable "traineeDto".(Ò˜Õ£8Íš¡Ï1
+C
+java:S1905e"&Remove this unnecessary cast to "Row".(‚¶ó8š¡Ï1
+I
+java:S1168Ã"+Return an empty collection instead of null.(¥¹ï8“š¡Ï1

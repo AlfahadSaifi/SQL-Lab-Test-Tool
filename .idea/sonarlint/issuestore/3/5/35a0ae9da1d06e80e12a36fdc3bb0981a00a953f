@@ -1,0 +1,10 @@
+
+…
+java:S1488&"cImmediately return this expression instead of assigning it to the temporary variable "questionDto".(îÒ£ùÿÿÿÿ8ŒøŒ«÷1
+†
+java:S1488/"dImmediately return this expression instead of assigning it to the temporary variable "questionDtos".(æĞ¡Šıÿÿÿÿ8øŒ«÷1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êï“8øŒ«÷1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¨øŒ«÷1
+L	java:S106"+Replace this use of System.out by a logger.(†“‚‹ûÿÿÿÿ8­øŒ«÷1
+L	java:S1067"+Replace this use of System.out by a logger.(‘Â‡²şÿÿÿÿ8±øŒ«÷1

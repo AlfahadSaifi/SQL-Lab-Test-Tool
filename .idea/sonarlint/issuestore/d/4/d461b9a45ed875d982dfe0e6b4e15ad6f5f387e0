@@ -1,0 +1,13 @@
+
+}
+java:S1488:"bImmediately return this expression instead of assigning it to the temporary variable "labDtoList".(¾Íãúÿÿÿÿ
+}
+java:S1488t"gImmediately return this expression instead of assigning it to the temporary variable "labQuestionData".(úëÇ½
+X
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ
+]	java:S125a"<This block of commented-out lines of code should be removed.(¼•ÉØşÿÿÿÿ8¥óı²ö1
+V	java:S125s"<This block of commented-out lines of code should be removed.(é’Òòıÿÿÿÿ
+Q	java:S125u"<This block of commented-out lines of code should be removed.(Âìœ¡
+^	java:S125¯"<This block of commented-out lines of code should be removed.(ğ““ıÿÿÿÿ8¤Şÿ²ö1

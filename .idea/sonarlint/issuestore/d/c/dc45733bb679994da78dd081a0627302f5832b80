@@ -1,0 +1,60 @@
+
+R
+java:S3740Ü"/Provide the parametrized type for this generic.(òÆüÒÿÿÿÿÿ8ÇÚÝÂõ1
+~
+java:S1192Ç"`Define a constant instead of duplicating this literal "WHERE a.employeeId = :username " 6 times.(††¯Â8ÉÚÝÂõ1
+x
+java:S1192Ä"ZDefine a constant instead of duplicating this literal "SELECT b.id, b.batchCode " 4 times.(ªÐ‘Ó8ÉÚÝÂõ1
+l
+java:S1192Å"NDefine a constant instead of duplicating this literal "FROM Admin a " 7 times.(”•É…8ÉÚÝÂõ1
+t
+java:S1192"VDefine a constant instead of duplicating this literal "WHERE b.id = :batchId" 4 times.(Çù©“8ÉÚÝÂõ1
+f
+java:S1192Þ"HDefine a constant instead of duplicating this literal "batchId" 6 times.(¤×¥Ê8ÉÚÝÂõ1
+p
+java:S1192Æ"RDefine a constant instead of duplicating this literal "JOIN a.batches b " 3 times.(à¹â«8ÉÚÝÂõ1
+k
+java:S1192{"IDefine a constant instead of duplicating this literal "username" 9 times.(üÑ•Ùùÿÿÿÿ8ÉÚÝÂõ1
+
+java:S1488o"dImmediately return this expression instead of assigning it to the temporary variable "batchDtoList".(Œûèó8ÊÚÝÂõ1
+„
+java:S1488Ê"fImmediately return this expression instead of assigning it to the temporary variable "traineeDtoList".(÷³œŸ8ÊÚÝÂõ1
+_
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄÞ8úÚÝÂõ1
+_
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄÞ8úÚÝÂõ1
+e
+java:S1854\"CRemove this useless assignment to local variable "updatedEntities".(œ–žÁùÿÿÿÿ8‚ÛÝÂõ1
+V
+java:S1481\"4Remove this unused "updatedEntities" local variable.(œ–žÁùÿÿÿÿ8„ÛÝÂõ1
+`
+java:S1155~">Use isEmpty() to check whether the collection is empty or not.(Å‚ë‰þÿÿÿÿ8‡ÛÝÂõ1
+a
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(Å‚ë‰þÿÿÿÿ8‰ÛÝÂõ1
+a
+java:S1155³">Use isEmpty() to check whether the collection is empty or not.(Å‚ë‰þÿÿÿÿ8‹ÛÝÂõ1
+^	java:S125¡"<This block of commented-out lines of code should be removed.(¾òüÆúÿÿÿÿ8ÛÝÂõ1
+c
+java:S1854ß"@Remove this useless assignment to local variable "rowsAffected".(àÍ×–øÿÿÿÿ8“ÛÝÂõ1
+S
+java:S1874Ü"0Remove this use of "SQLQuery"; it is deprecated.(òÆüÒÿÿÿÿÿ8”ÛÝÂõ1
+T
+java:S1481ß"1Remove this unused "rowsAffected" local variable.(àÍ×–øÿÿÿÿ8”ÛÝÂõ1
+I
+java:S1168Û"+Return an empty collection instead of null.(¥¹ï8œÛÝÂõ1
+U
+java:S1854€"7Remove this useless assignment to local variable "hql".(ÂŠˆò8ÛÝÂõ1
+Y
+java:S1854ÿ";Remove this useless assignment to local variable "session".(ïî­½8žÛÝÂõ1
+J
+java:S1481ÿ",Remove this unused "session" local variable.(ïî­½8žÛÝÂõ1
+F
+java:S1481€"(Remove this unused "hql" local variable.(ÂŠˆò8žÛÝÂõ1
+^	java:S125Ž"<This block of commented-out lines of code should be removed.(›¦ôóúÿÿÿÿ8žÛÝÂõ1
+^	java:S125ž"<This block of commented-out lines of code should be removed.(¡Áíùÿÿÿÿ8žÛÝÂõ1
+b
+java:S1117¨"?Rename "batchIdCode" which hides the field declared at line 38.(¶ÑÚìúÿÿÿÿ8ŸÛÝÂõ1
+S
+java:S1128"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³8¢ÛÝÂõ1
+Q
+java:S1068&"/Remove this unused "batchIdCode" private field.(²Æîêúÿÿÿÿ8¢ÛÝÂõ1

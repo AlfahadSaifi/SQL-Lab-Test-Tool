@@ -1,0 +1,112 @@
+
+K
+java:S3740ê"/Provide the parametrized type for this generic.(¬œ‘âşÿÿÿÿ
+K
+java:S3740±"/Provide the parametrized type for this generic.(òÆüÒÿÿÿÿÿ
+E
+java:S3740Æ"/Provide the parametrized type for this generic.(òİµB
+K
+java:S3740¯"/Provide the parametrized type for this generic.(¸‚şÿÿÿÿ
+K
+java:S3740ò"/Provide the parametrized type for this generic.(‰Ü¹ûÿÿÿÿ
+o
+java:S1192L"TDefine a constant instead of duplicating this literal "JOIN l.questions q " 4 times.(¼ñ½øùÿÿÿÿ
+b
+java:S1192—"KDefine a constant instead of duplicating this literal "traineeId" 13 times.(ë®šÿ
+{
+java:S1192Ä"_Define a constant instead of duplicating this literal "AND lt.traineeId = :traineeId " 3 times.(ÃñÁµùÿÿÿÿ
+b
+java:S1192P"GDefine a constant instead of duplicating this literal "labId" 19 times.(Ş·¹Üùÿÿÿÿ
+^
+java:S1192É"GDefine a constant instead of duplicating this literal "status" 5 times.(‘ ù™
+v
+java:S1192Å"ZDefine a constant instead of duplicating this literal "AND lt.labStatus =:status" 3 times.(‡ŸªÓûÿÿÿÿ
+m
+java:S1192Â"QDefine a constant instead of duplicating this literal "FROM LabInfo lt " 4 times.(áòşçúÿÿÿÿ
+a
+java:S1192½"KDefine a constant instead of duplicating this literal "questionId" 4 times.(¬Üï_
+p
+java:S1192ü"YDefine a constant instead of duplicating this literal "FROM RecordLabAttempt r " 3 times.(ÕêÅ
+`
+java:S1192¯"IDefine a constant instead of duplicating this literal "batchId" 12 times.(¤×¥Ê
+w
+java:S1192Ã"[Define a constant instead of duplicating this literal "WHERE lt.batch = :batchId " 4 times.(—œŞÕşÿÿÿÿ
+h
+java:S1192Á"QDefine a constant instead of duplicating this literal "SELECT lt.labId " 4 times.(†ˆ˜“
+q
+java:S1488x"[Immediately return this expression instead of assigning it to the temporary variable "lab".(ÍûÛë
+„
+java:S1488‚"hImmediately return this expression instead of assigning it to the temporary variable "recordLabAttempt".(‘¤¹êüÿÿÿÿ
+v
+java:S1488”"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(ì˜œŞ
+~
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "labDtoList".(ˆœ“Ùùÿÿÿÿ
+„
+java:S1488·"hImmediately return this expression instead of assigning it to the temporary variable "recordLabAttempt".(‘¤¹êüÿÿÿÿ
+r
+java:S1488á"[Immediately return this expression instead of assigning it to the temporary variable "lab".(Û‘Ç
+v
+java:S1488’"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(¬¸”
+v
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(¬¸”
+{
+java:S1488Ñ"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(´ë­ßüÿÿÿÿ
+{
+java:S1488à"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(¶¯õÇùÿÿÿÿ
+v
+java:S1488í"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(“›ÇÕ
+v
+java:S1488Ÿ"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(Éƒú
+
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "labPayloads".(áÙ¯ùÿÿÿÿ
+v
+java:S1488æ"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(“›ÇÕ
+ƒ
+java:S1488ô"lImmediately return this expression instead of assigning it to the temporary variable "traineeMarksPayloads".(è¦Ç™
+X
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ
+w
+java:S4144¼"[Update this method so that its implementation is not identical to "addLabInfo" on line 263.(¢îñ«úÿÿÿÿ
+E	java:S106c"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+P
+java:S1854À"9Remove this useless assignment to local variable "batch".(Òì’ß
+A
+java:S1481À"*Remove this unused "batch" local variable.(Òì’ß
+P
+java:S1854İ"9Remove this useless assignment to local variable "batch".(Òì’ß
+A
+java:S1481İ"*Remove this unused "batch" local variable.(Òì’ß
+R	java:S125ª"<This block of commented-out lines of code should be removed.(ÁôšÖ
+P
+java:S1854Æ"9Remove this useless assignment to local variable "batch".(Òì’ß
+A
+java:S1481Æ"*Remove this unused "batch" local variable.(Òì’ß
+\
+java:S1854´"@Remove this useless assignment to local variable "rowsAffected".(àÍ×–øÿÿÿÿ
+L
+java:S1874±"0Remove this use of "SQLQuery"; it is deprecated.(òÆüÒÿÿÿÿÿ
+M
+java:S1481´"1Remove this unused "rowsAffected" local variable.(àÍ×–øÿÿÿÿ
+\
+java:S1854¾"@Remove this useless assignment to local variable "rowsAffected".(àÍ×–øÿÿÿÿ
+M
+java:S1481¾"1Remove this unused "rowsAffected" local variable.(àÍ×–øÿÿÿÿ
+\
+java:S1854É"@Remove this useless assignment to local variable "rowsAffected".(àÍ×–øÿÿÿÿ
+F
+java:S1874Æ"0Remove this use of "SQLQuery"; it is deprecated.(òİµB
+M
+java:S1481É"1Remove this unused "rowsAffected" local variable.(àÍ×–øÿÿÿÿ
+Y
+java:S1854Î"CRemove this useless assignment to local variable "updatedEntities".(Öûş
+J
+java:S1481Î"4Remove this unused "updatedEntities" local variable.(Öûş
+W	java:S125‹"<This block of commented-out lines of code should be removed.(Ô‹”ºÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(¿òùŞ
+I
+java:S1128
+"3Remove this unused import 'lab.entity.admin.Admin'.(›ÂÔ

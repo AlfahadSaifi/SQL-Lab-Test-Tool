@@ -1,0 +1,18 @@
+
+
+java:S1192œ"aDefine a constant instead of duplicating this literal "redirect:/admin/viewQuestionBank" 3 times.(§¼Ş8“š®÷1
+o
+java:S1192¥"QDefine a constant instead of duplicating this literal "pages/badRequest" 3 times.(š­ìğ8“š®÷1
+k
+java:S1192£"HDefine a constant instead of duplicating this literal "Referer" 3 times.(Å¯ßïüÿÿÿÿ8“š®÷1
+o
+java:S1192)"MDefine a constant instead of duplicating this literal "errorMessage" 8 times.(öß’úùÿÿÿÿ8Ü˜ä­÷1
+m
+java:S1192“"ODefine a constant instead of duplicating this literal "successMessage" 4 times.(¸íÔ‘8“š®÷1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ö˜ä­÷1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ö˜ä­÷1
+X	java:S125C"<This block of commented-out lines of code should be removed.(—Àæ­8ı˜ä­÷1
+M	java:S106¹"+Replace this use of System.out by a logger.(œ¨—ıÿÿÿÿ8«“š®÷1
+M	java:S106»"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ8«“š®÷1

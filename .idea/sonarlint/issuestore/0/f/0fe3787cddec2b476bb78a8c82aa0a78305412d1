@@ -1,0 +1,49 @@
+
+\
+java:S11927"FDefine a constant instead of duplicating this literal ".xlsx" 4 times.(Ä’Ñ
+f
+java:S1192q"QDefine a constant instead of duplicating this literal "Missing header: " 3 times.(Î«ò
+d
+java:S1192"MDefine a constant instead of duplicating this literal "Successfully" 3 times.(¾§Âğ
+ˆ
+java:S1192’"lDefine a constant instead of duplicating this literal "Unexpected error while processing the file." 3 times.(Ù©Ÿ×ÿÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141µ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141õ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+p
+java:S1488®"YImmediately return this expression instead of assigning it to the temporary variable "s".(®º©“
+p
+java:S1488´"YImmediately return this expression instead of assigning it to the temporary variable "s".(Èª‘İ
+y
+java:S1488Ê"cImmediately return this expression instead of assigning it to the temporary variable "questionDto".(çç³P
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ
+<
+java:S1905@"&Remove this unnecessary cast to "Row".(‚¶ó
+V	java:S125M"<This block of commented-out lines of code should be removed.(Š·Áúüÿÿÿÿ
+g
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(êºóV
+^
+java:S1479"BReduce the number of non-empty switch cases from 31 to at most 30.(›Üµ¤úÿÿÿÿ
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(øÒ¢Û
+i
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ƒÂµğ
+n
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(şùäãøÿÿÿÿ
+Ü
+java:S6541Y"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 183 to 64, Complexity from 47 to 14, Nesting Level from 8 to 2, Number of Variables from 40 to 6.(êºóV
+İ
+java:S6541Ö"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 68 to 64, Complexity from 18 to 14, Nesting Level from 5 to 2, Number of Variables from 25 to 6.(ƒÂµğ
+â
+java:S6541Ÿ"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 68 to 64, Complexity from 18 to 14, Nesting Level from 5 to 2, Number of Variables from 25 to 6.(şùäãøÿÿÿÿ

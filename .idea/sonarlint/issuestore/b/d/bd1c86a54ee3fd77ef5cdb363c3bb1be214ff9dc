@@ -1,0 +1,7 @@
+
+}
+java:S1845G"bRename method "getLabTestinfo" to prevent any misunderstanding/clash with method "getLabTestInfo".(–…Œ”üÿÿÿÿ
+b	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñùåg
+X	java:S125C"<This block of commented-out lines of code should be removed.(óíÚª8¬‹ê²ö1
+n
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœžÿÿÿÿÿ8®‹ê²ö1

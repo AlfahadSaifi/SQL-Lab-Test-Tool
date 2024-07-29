@@ -1,0 +1,12 @@
+
+W	java:S125)"<This block of commented-out lines of code should be removed.(œÚ$8š‚©“ö1
+P
+java:S1128"3Remove this unused import 'lab.entity.admin.Admin'.(›ÂÔ8Æ÷™•ö1
+R
+java:S1128"5Remove this unused import 'lab.entity.schema.Schema'.(Şïî¡8Æ÷™•ö1
+^
+java:S1128"<Remove this unused import 'org.hibernate.annotations.Fetch'.(”” ìşÿÿÿÿ8Æ÷™•ö1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ç÷™•ö1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Ç÷™•ö1

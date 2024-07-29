@@ -1,0 +1,31 @@
+
+s
+java:S1192C"XDefine a constant instead of duplicating this literal "pages/trainee/dashboard" 3 times.(ºªÞ„úÿÿÿÿ
+d
+java:S1192<"IDefine a constant instead of duplicating this literal "username" 4 times.(‘¦¸ëúÿÿÿÿ
+{
+java:S14882"`Immediately return this expression instead of assigning it to the temporary variable "username".(ìŠ•ùúÿÿÿÿ
+s
+java:S3753 "XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Ù¼«Çÿÿÿÿÿ
+X
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄÞ
+V	java:S125e"<This block of commented-out lines of code should be removed.(°ÔÍ…úÿÿÿÿ
+Q	java:S125š"<This block of commented-out lines of code should be removed.(Ñüô
+J
+java:S1128"/Remove this unused import 'lab.dto.lab.LabDto'.(ä„Ä›øÿÿÿÿ
+P
+java:S1128	":Remove this unused import 'lab.payload.batch.BatchIdCode'.(Ó¸Ô¨
+k
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ
+q
+java:S1128"[Remove this unused import 'org.springframework.web.servlet.mvc.support.RedirectAttributes'.(ìçÚË
+X
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…

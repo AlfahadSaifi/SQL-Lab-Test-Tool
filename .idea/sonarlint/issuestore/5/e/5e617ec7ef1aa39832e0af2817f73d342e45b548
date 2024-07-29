@@ -1,0 +1,35 @@
+
+o
+java:S1192C"RDefine a constant instead of duplicating this literal "pages/badRequest" 14 times.(š­ìğ8‰öŠİõ1
+u
+java:S1192’"RDefine a constant instead of duplicating this literal "Fail to add file." 6 times.(ï©ßüÿÿÿÿ8‰öŠİõ1
+c
+java:S1192t"FDefine a constant instead of duplicating this literal "labId" 5 times.(ÌµŠ¥8‰öŠİõ1
+„
+java:S1192R"bDefine a constant instead of duplicating this literal "redirect:/admin/viewQuestions?id=" 7 times.(æîÅúÿÿÿÿ8‰öŠİõ1
+€
+java:S1192P"^Define a constant instead of duplicating this literal "redirect:/admin/viewAssignLab" 3 times.(¸ÛØ¯üÿÿÿÿ8‰öŠİõ1
+k
+java:S1192L"NDefine a constant instead of duplicating this literal "errorMessage" 12 times.(°¦ª•8‰öŠİõ1
+k
+java:S1192A"IDefine a constant instead of duplicating this literal "Referer" 15 times.(Å¯ßïüÿÿÿÿ8ŠöŠİõ1
+l
+java:S1192J"PDefine a constant instead of duplicating this literal "successMessage" 10 times.(½ñĞ{8ŠöŠİõ1
+_
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8®öŠİõ1
+_
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8®öŠİõ1
+_
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8®öŠİõ1
+_
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞ8®öŠİõ1
+_
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ8®öŠİõ1
+_
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ8®öŠİõ1
+\
+java:S1854":Remove this useless assignment to local variable "status".(¶¬£Îıÿÿÿÿ8¹öŠİõ1
+M
+java:S1481"+Remove this unused "status" local variable.(¶¬£Îıÿÿÿÿ8¹öŠİõ1
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(‘–¡Ñüÿÿÿÿ8™ğş²ö1
+^	java:S125Î"<This block of commented-out lines of code should be removed.(á‰•Šûÿÿÿÿ8‹èÎ²ö1

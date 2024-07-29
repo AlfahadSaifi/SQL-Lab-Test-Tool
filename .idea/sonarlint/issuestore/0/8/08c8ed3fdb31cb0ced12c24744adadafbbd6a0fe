@@ -1,0 +1,26 @@
+
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ
+_
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8¹ü‰Áõ1
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(õƒ›ñ
+g
+java:S1128"JRemove this unused import 'lab.service.user.UserDetailsServiceCustomImpl'.(‚–€¨8Áü‰Áõ1
+c
+java:S1128"FRemove this unused import 'org.springframework.core.annotation.Order'.(Ö¨æ8Áü‰Áõ1
+}
+java:S1128"[Remove this unused import 'org.springframework.security.config.http.SessionCreationPolicy'.(‚ÌÎîüÿÿÿÿ8Âü‰Áõ1
+j
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8Âü‰Áõ1
+z
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.password.NoOpPasswordEncoder'.(ƒ»ÅÅ8Âü‰Áõ1
+‹
+java:S1128"iRemove this unused import 'org.springframework.security.web.authentication.AuthenticationSuccessHandler'.(Â©ŠÏüÿÿÿÿ8Âü‰Áõ1
+X
+java:S1128";Remove this unused import 'javax.servlet.ServletException'.(Š‰™Œ8Âü‰Áõ1
+_
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8Âü‰Áõ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Âü‰Áõ1

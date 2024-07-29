@@ -1,0 +1,93 @@
+
+K
+java:S3740Ì"/Provide the parametrized type for this generic.(û§™×şÿÿÿÿ
+K
+java:S3740¨"/Provide the parametrized type for this generic.(û§™×şÿÿÿÿ
+_
+java:S1192Æ"HDefine a constant instead of duplicating this literal "Correct" 8 times.(¹¬ıª
+^
+java:S1226"BIntroduce a new variable instead of reusing the parameter "labId".(ØÌØĞÿÿÿÿÿ
+^
+java:S2259‚"GA "NullPointerException" could be thrown; "labReport" is nullable here.(±Ó¦
+o
+java:S2259Á"SA "NullPointerException" could be thrown; "recordLabTestAttempts" is nullable here.(ğãğ˜úÿÿÿÿ
+g
+java:S2259Æ"KA "NullPointerException" could be thrown; "labTestReport" is nullable here.(×ÿíùúÿÿÿÿ
+k
+java:S2259ş"OA "NullPointerException" could be thrown; "recordLabAttempts" is nullable here.(…·ßîÿÿÿÿÿ
+X
+java:S68139"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813;"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813="BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813?"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813A"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813C"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813E"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813G"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813I"BRemove this field injection and use constructor injection instead.(êæÄŞ
+I
+java:S6863¢"2Set a HttpStatus code reflective of the operation.(¯±•†
+<
+java:S1452U"&Remove usage of generic wildcard type.(¾¼¶©
+V	java:S125X"<This block of commented-out lines of code should be removed.(°ÔÍ…úÿÿÿÿ
+S
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(îĞ­E
+=
+java:S1452"&Remove usage of generic wildcard type.(±æüÎ
+Q	java:S125”"<This block of commented-out lines of code should be removed.(Ñüô
+Z
+java:S1155›">Use isEmpty() to check whether the collection is empty or not.(—Ëÿóûÿÿÿÿ
+i
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(« ÉÄ
+=
+java:S1452¶"&Remove usage of generic wildcard type.(« ÉÄ
+F	java:S106ï"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+n
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(§è¨şÿÿÿÿ
+B
+java:S1452š"&Remove usage of generic wildcard type.(§è¨şÿÿÿÿ
+F	java:S106Ï"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+=
+java:S1452ù"&Remove usage of generic wildcard type.(½ıĞ¡
+B
+java:S1452†"&Remove usage of generic wildcard type.(ĞÉ¬Äûÿÿÿÿ
+=
+java:S1452”"&Remove usage of generic wildcard type.(¿—ö°
+=
+java:S1452¨"&Remove usage of generic wildcard type.(¾ïš·
+B
+java:S1452®"&Remove usage of generic wildcard type.(ıµåÇüÿÿÿÿ
+V
+java:S1854¸"?Remove this useless assignment to local variable "traineeName".(‚¡ğÕ
+<
+java:S1452³"&Remove usage of generic wildcard type.(ê‡§Y
+G
+java:S1481¸"0Remove this unused "traineeName" local variable.(‚¡ğÕ
+Z
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(ğãğ˜úÿÿÿÿ
+V
+java:S6213Ô":Rename this variable to not match a restricted identifier.(×†ºñıÿÿÿÿ
+R	java:S125ç"<This block of commented-out lines of code should be removed.(îŒ—¶
+V
+java:S1854ö"?Remove this useless assignment to local variable "traineeName".(‚¡ğÕ
+B
+java:S1452ô"&Remove usage of generic wildcard type.(¹ü›øÿÿÿÿ
+G
+java:S1481ö"0Remove this unused "traineeName" local variable.(‚¡ğÕ
+Z
+java:S1155ş">Use isEmpty() to check whether the collection is empty or not.(…·ßîÿÿÿÿÿ
+V
+java:S6213":Rename this variable to not match a restricted identifier.(œ÷ù øÿÿÿÿ
+R	java:S125£"<This block of commented-out lines of code should be removed.(îŒ—¶
+İ
+java:S6541¶"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 96 to 64, Complexity from 20 to 14, Nesting Level from 3 to 2, Number of Variables from 27 to 6.(« ÉÄ
+â
+java:S6541š"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 93 to 64, Complexity from 18 to 14, Nesting Level from 4 to 2, Number of Variables from 26 to 6.(§è¨şÿÿÿÿ

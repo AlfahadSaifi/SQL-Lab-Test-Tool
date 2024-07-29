@@ -1,0 +1,17 @@
+
+
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "objectMapper".(¡ôó‰ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ðä¿Ñ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ºÂ¶Ä
+V	java:S125""<This block of commented-out lines of code should be removed.(Ü®×±þÿÿÿÿ
+j
+java:S1128"TRemove this unused import 'org.springframework.http.converter.HttpMessageConverter'.(ÅŒôì
+ƒ
+java:S1128"hRemove this unused import 'org.springframework.http.converter.json.MappingJackson2HttpMessageConverter'.(ìÒœ‹øÿÿÿÿ
+Š
+java:S1128
+"oRemove this unused import 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter'.(ï¯–üüÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

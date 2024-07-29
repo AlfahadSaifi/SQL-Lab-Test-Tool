@@ -1,0 +1,21 @@
+
+K
+java:S3740ã"/Provide the parametrized type for this generic.(òÆüÒÿÿÿÿÿ
+]
+java:S1192È"FDefine a constant instead of duplicating this literal "empId" 4 times.(›‚êÜ
+
+java:S1488ñ"hImmediately return this expression instead of assigning it to the temporary variable "traineeDetailDto".(¦ƒëõ
+X
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄÞ
+\
+java:S1854æ"@Remove this useless assignment to local variable "rowsAffected".(àÍ×–øÿÿÿÿ
+L
+java:S1874ã"0Remove this use of "SQLQuery"; it is deprecated.(òÆüÒÿÿÿÿÿ
+M
+java:S1481æ"1Remove this unused "rowsAffected" local variable.(àÍ×–øÿÿÿÿ
+D
+java:S1481 "(Remove this unused "res" local variable.(··Á’ùÿÿÿÿ
+[
+java:S1854µ"?Remove this useless assignment to local variable "rowsUpdated".(ãª§Öÿÿÿÿÿ
+L
+java:S1481µ"0Remove this unused "rowsUpdated" local variable.(ãª§Öÿÿÿÿÿ

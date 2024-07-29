@@ -1,0 +1,56 @@
+
+a
+java:S1192Î"JDefine a constant instead of duplicating this literal "batchName" 3 times.(¥ò³ë
+h
+java:S1192F"RDefine a constant instead of duplicating this literal "pages/badRequest" 11 times.(š­ìğ
+h
+java:S1192¬"LDefine a constant instead of duplicating this literal "traineeName" 5 times.(Çğ¿úÿÿÿÿ
+a
+java:S1192«"JDefine a constant instead of duplicating this literal "traineeId" 5 times.(ïŞÇ«
+^
+java:S1192f"HDefine a constant instead of duplicating this literal "batchId" 5 times.(Ì«•ÿ
+€
+java:S1192"dDefine a constant instead of duplicating this literal "pages/reports/viewDetailedLabReport" 4 times.(ÍÊ¿³øÿÿÿÿ
+o
+java:S1192"SDefine a constant instead of duplicating this literal "Data Not Available" 5 times.(ÆÕĞîúÿÿÿÿ
+i
+java:S1192"MDefine a constant instead of duplicating this literal "errorMessage" 5 times.(ÆÕĞîúÿÿÿÿ
+d
+java:S1192D"IDefine a constant instead of duplicating this literal "Referer" 11 times.(Å¯ßïüÿÿÿÿ
+k
+java:S2259"OA "NullPointerException" could be thrown; "recordLabAttempts" is nullable here.(¯ëşÿÿÿÿ
+c
+java:S2259Ä"LA "NullPointerException" could be thrown; "labtestReports" is nullable here.(È¤§ü
+n
+java:S3753,"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.( Íáß
+X
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813;"BRemove this field injection and use constructor injection instead.(êæÄŞ
+V
+java:S6213":Rename this variable to not match a restricted identifier.(œ÷ù øÿÿÿÿ
+U
+java:S1155Í">Use isEmpty() to check whether the collection is empty or not.(ä×ê
+V
+java:S6213Ú":Rename this variable to not match a restricted identifier.(×†ºñıÿÿÿÿ
+Z
+java:S1155–">Use isEmpty() to check whether the collection is empty or not.(ªÔà´ûÿÿÿÿ
+Z
+java:S1155¹">Use isEmpty() to check whether the collection is empty or not.(¯£ï—üÿÿÿÿ
+Z
+java:S1155½">Use isEmpty() to check whether the collection is empty or not.(‘Ÿûÿÿÿÿ
+Z
+java:S1155½">Use isEmpty() to check whether the collection is empty or not.(‘Ÿûÿÿÿÿ
+i
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(õê—¡
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ëÏûÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(¦ëÏûÿÿÿÿ
+H
+java:S1481Ã"2Remove this unused "obtainedScore" local variable.( ¨ûE

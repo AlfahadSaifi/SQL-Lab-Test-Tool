@@ -1,0 +1,71 @@
+
+Q
+java:S3740{"/Provide the parametrized type for this generic.(°™âÎüÿÿÿÿ8á×¼äô1
+R
+java:S3740¢"/Provide the parametrized type for this generic.(¬œ‘âşÿÿÿÿ8á×¼äô1
+R
+java:S3740¹"/Provide the parametrized type for this generic.(ñ˜Ç“şÿÿÿÿ8á×¼äô1
+x
+java:S1192Ú"UDefine a constant instead of duplicating this literal "FROM LabTestInfo lt " 3 times.(®ëÊ™ûÿÿÿÿ8ã×¼äô1
+i
+java:S1192"KDefine a constant instead of duplicating this literal "traineeId" 16 times.(ë®šÿ8ã×¼äô1
+‚
+java:S1192Ü"_Define a constant instead of duplicating this literal "AND lt.traineeId = :traineeId " 3 times.(ÃñÁµùÿÿÿÿ8ã×¼äô1
+k
+java:S1192©"HDefine a constant instead of duplicating this literal "SELECT " 3 times.(ÜË÷¹øÿÿÿÿ8ã×¼äô1
+|
+java:S1192İ"^Define a constant instead of duplicating this literal "AND lt.labTestStatus =:status" 3 times.(Ø°©ˆ8ã×¼äô1
+e
+java:S1192á"GDefine a constant instead of duplicating this literal "status" 5 times.(‘ ù™8ã×¼äô1
+g
+java:S1192‘"IDefine a constant instead of duplicating this literal "batchId" 13 times.(¤×¥Ê8ã×¼äô1
+n
+java:S1192"KDefine a constant instead of duplicating this literal "labTestId" 12 times.(§“¨ûÿÿÿÿ8ã×¼äô1
+€
+java:S1192š"]Define a constant instead of duplicating this literal "FROM RecordLabTestAttempt r " 3 times.(¯–çËùÿÿÿÿ8ã×¼äô1
+s
+java:S1192Ù"UDefine a constant instead of duplicating this literal "SELECT lt.labTestId " 3 times.(íÈùº8ã×¼äô1
+~
+java:S1192Û"[Define a constant instead of duplicating this literal "WHERE lt.batch = :batchId " 3 times.(—œŞÕşÿÿÿÿ8ã×¼äô1
+s
+java:S1192­"UDefine a constant instead of duplicating this literal "FROM LabTestInfo li " 5 times.(çŞÂú8ã×¼äô1
+…
+java:S1488b"cImmediately return this expression instead of assigning it to the temporary variable "questionDto".(îÒ£ùÿÿÿÿ8å×¼äô1
+
+java:S1488 "lImmediately return this expression instead of assigning it to the temporary variable "recordLabTestAttempt".(µ—ã”úÿÿÿÿ8æ×¼äô1
+ˆ
+java:S1488’"eImmediately return this expression instead of assigning it to the temporary variable "noOfQuestions".(Ã™Òçıÿÿÿÿ8æ×¼äô1
+€
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "resultList".(ÎÑÊÿ8æ×¼äô1
+‰
+java:S1488¨"fImmediately return this expression instead of assigning it to the temporary variable "labTestDtoList".(áœµ³üÿÿÿÿ8æ×¼äô1
+}
+java:S1488š"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(óîöÂ8æ×¼äô1
+ƒ
+java:S1488¤"eImmediately return this expression instead of assigning it to the temporary variable "questionPoint".(×Úşö8æ×¼äô1
+‚
+java:S1488Æ"_Immediately return this expression instead of assigning it to the temporary variable "labInfo".(ú–ïúÿÿÿÿ8æ×¼äô1
+‹
+java:S1488Ó"mImmediately return this expression instead of assigning it to the temporary variable "recordLabTestAttempts".(Õÿí8æ×¼äô1
+
+java:S1488»"lImmediately return this expression instead of assigning it to the temporary variable "traineeMarksPayloads".(”‚‚ûÿÿÿÿ8æ×¼äô1
+
+java:S1488Ë"cImmediately return this expression instead of assigning it to the temporary variable "labTestInfo".(Ÿ„ã˜8æ×¼äô1
+
+java:S1488ƒ"bImmediately return this expression instead of assigning it to the temporary variable "labTestDto".(…Ê¡g8æ×¼äô1
+_
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8Ù¼äô1
+_
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ù¼äô1
+E
+java:S1125‰"'Remove the unnecessary boolean literal.(ËŞÿ¶8¤Ù¼äô1
+I
+java:S1168®"+Return an empty collection instead of null.(¥¹ï8¹Ù¼äô1
+^	java:S125­"<This block of commented-out lines of code should be removed.(òÔŞÿÿÿÿÿ8¹Ù¼äô1
+M	java:S106ó"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8¿Ù¼äô1
+E
+java:S1125"'Remove the unnecessary boolean literal.(áª–¬8ÁÙ¼äô1
+E
+java:S1125Ä"'Remove the unnecessary boolean literal.(ËŞÿ¶8ÄÙ¼äô1
+Q
+java:S1128"/Remove this unused import 'lab.dto.lab.LabDto'.(ä„Ä›øÿÿÿÿ8°«Ùäô1

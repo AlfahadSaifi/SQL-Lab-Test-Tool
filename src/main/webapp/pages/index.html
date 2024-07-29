@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL-Editor</title>
+    <link id="theme-style" rel="stylesheet" href="index-light.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".toggle-btn").click(function(){
+                $(this).next().toggle();
+            });
+
+            // Function to toggle the theme
+            $("#theme-toggle").click(function() {
+                const currentTheme = $("#theme-style").attr("href");
+                const newTheme = currentTheme === "index-light.css" ? "index-dark.css" : "index-light.css";
+                $("#theme-style").attr("href", newTheme);
+            });
+        });
+        
+    </script>
+
+</head>
+
+<body>
+
+
+    <!-- header -->
+
+
+    <div class="container">
+
+        <header>
+            <nav>
+                <ul class="navleftfunc">
+                    <li><a href="#">File</a></li>
+                    <li><a href="#">View</a></li>
+                    <li><a href="#">Edit</a></li>
+                    <li><a href="#">Help</a></li>
+                </ul>
+            </nav>
+            <ul class="headerfunc">
+                <li><a href="#"><img src="./Assets/info-light.png"></a></li>
+                <li><a href="#" id="theme-toggle"><img src="./Assets/sun.png"></a></li>
+            </ul>
+            <!-- <a class="cta" href="#"><button><img src="./Assets/sun.png"></button></a> -->
+        </header>
+
+        <!-- Left Sidebar -->
+
+        <div class="leftsidebar">
+            <h1>SQL LABS</h1>
+            <ul>
+                <li><a href="#">LABORATORY 1</a></li>
+                <li><a href="#">LABORATORY 2</a></li>
+                <li><a href="#">LABORATORY 3</a></li>
+                <li><a href="#">LABORATORY 4</a></li>
+                <li><a href="#">LABORATORY 5</a></li>
+                <li><a href="#">LABORATORY 6</a></li>
+                <li><a href="#">LABORATORY 7</a></li>
+            </ul>
+        </div>
+
+        <!-- Compiler -->
+
+        <div class="compiler">
+
+            <!-- Editor -->
+
+            <div class="editor">
+                <form action="lab?id=${question.questionId}" method="post">
+
+                    <label>SQL Editor</label>
+                    
+                    <button type="submit" class="btn">RUN</button>
+                    <h1 class="qd">${question.questionDescription}</h1>
+                    <textarea id="sql-code" required autocomplete="off"
+                        placeholder="Write Your Code Here...">${query}</textarea>
+                </form>
+
+            </div>
+
+            <!-- Console -->
+
+            <div class="console">
+
+                <label>Output</label>
+                <iframe id="output"></iframe>
+
+            </div>
+        </div>
+
+        <!-- Right Sidebar -->
+
+        <div class="rightsidebar" id="right-sidebar">
+            <c:forEach var="e" items="${questionList}">
+                <button class="toggle-btn">Question 1</button>
+                <p>
+                    <a href="${pageContext.request.contextPath}/lab?id=${e.questionId}">${e.questionDescription}</a>
+                </p>
+            </c:forEach>
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>

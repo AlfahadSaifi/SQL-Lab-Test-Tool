@@ -1,0 +1,26 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖßŠµÿÿÿÿÿ8ï¶Åİõ1
+k
+java:S2259¨"N"NullPointerException" will be thrown when invoking method "closeResultSet()".(ÀüR8·Åİõ1
+q
+java:S22594"OA "NullPointerException" could be thrown; "associatedKeyword" is nullable here.(¹­©Ãúÿÿÿÿ8·Åİõ1
+l
+java:S2259©"N"NullPointerException" will be thrown when invoking method "closeResultSet()".(ú¼8®æÆİõ1
+Y
+java:S25894"7Remove this expression which always evaluates to "true"(¹­©Ãúÿÿÿÿ8·Åİõ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8·Åİõ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8·Åİõ1
+N
+java:S3599#",Use another way to initialize this instance.(îØÓñøÿÿÿÿ8’·Åİõ1
+{
+java:S1171#"YMove the contents of this initializer to a standard constructor or to field initializers.(îØÓñøÿÿÿÿ8“·Åİõ1
+w
+java:S18589"U"submittedTableName" is already a string, there's no need to call "toString()" on it.(Ùäç³üÿÿÿÿ8•·Åİõ1
+G	java:S106="+Replace this use of System.out by a logger.(ûƒ—à8–·Åİõ1
+]	java:S125H"<This block of commented-out lines of code should be removed.(¬©ª¦ûÿÿÿÿ8ÔÓÆİõ1
+L	java:S106s"+Replace this use of System.out by a logger.(Î¤ÌÂùÿÿÿÿ8»æÆİõ1
+L	java:S106w"+Replace this use of System.out by a logger.(ñÜ‰§øÿÿÿÿ8»æÆİõ1
+W
+java:S2864Á"4Iterate over the "entrySet" instead of the "keySet".(Ù§†şÿÿÿÿ8ÀæÆİõ1
